@@ -36,38 +36,38 @@ For these different modeles we had to follow the same steps: split the data into
 
 ## Cluster Centroid Undersampling
 
-Accuracy Score: 51.3%
-Precision High Risk: 0%
-Precision Low Risk: 100%
-Recall High Risk: 58%
-Recall Low Risk: 44%
+- Accuracy Score: 51.3%
+- Precision High Risk: 0%
+- Precision Low Risk: 100%
+- Recall High Risk: 58%
+- Recall Low Risk: 44%
 ![undersampling.png](https://github.com/davescudero/Credit_Risk_Analysis/blob/main/Resources/undersampling.png)
 
 ## SMOTEENN Sampling (Combination, over and under)
 
-Accuracy Score: 68%
-Precision High Risk: 1%
-Precision Low Risk: 100%
-Recall High Risk: 76%
-Recall Low Risk: 60%
+- Accuracy Score: 68%
+- Precision High Risk: 1%
+- Precision Low Risk: 100%
+- Recall High Risk: 76%
+- Recall Low Risk: 60%
 ![smoteen.png](https://github.com/davescudero/Credit_Risk_Analysis/blob/main/Resources/smoteen.png)
 
 ## Balanced Random Forest Classifying
 
-Accuracy Score: 64.8%
-Precision High Risk: 56%
-Precision Low Risk: 100%
-Recall High Risk: 30%
-Recall Low Risk: 100%
+- Accuracy Score: 64.8%
+- Precision High Risk: 56%
+- Precision Low Risk: 100%
+- Recall High Risk: 30%
+- Recall Low Risk: 100%
 ![random_forest.png](https://github.com/davescudero/Credit_Risk_Analysis/blob/main/Resources/random_forest.png)
 
 ## Easy Ensemble Classifying
 
-Accuracy Score: 93.1%
-Precision High Risk: 9%
-Precision Low Risk: 100%
-Recall High Risk: 94%
-Recall Low Risk: 92%
+- Accuracy Score: 93.1%
+- Precision High Risk: 9%
+- Precision Low Risk: 100%
+- Recall High Risk: 94%
+- Recall Low Risk: 92%
 ![easy_ensamble.png](https://github.com/davescudero/Credit_Risk_Analysis/blob/main/Resources/easy_ensamble.png)
 
 ## Summary
